@@ -1,0 +1,8 @@
+npm install -g @angular/cli
+Step 2. Create a new project 
+Open a terminal window.
+
+Generate a new project and default app by running the following command:
+
+content_copy
+ng new my-app
