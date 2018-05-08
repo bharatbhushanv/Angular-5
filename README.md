@@ -1,0 +1,2 @@
+# Angular-5
+Angular 5 is a JavaScript framework that makes it easy to build web applications and apps in JavaScript, html, and TypeScript, which is a superset of JavaScript. Angular combines declarative templates, dependency injection, end to end tooling, and integrated best practices to solve development challenges. Angular empowers developers to build applications that live on the web, mobile, or the desktop.
